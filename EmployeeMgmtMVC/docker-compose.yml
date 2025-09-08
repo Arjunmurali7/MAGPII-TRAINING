@@ -1,0 +1,6 @@
+services:
+  employeemgmtmvc:
+    image: ${DOCKER_REGISTRY-}employeemgmtmvc
+    build:
+      context: .
+      dockerfile: EmployeeMgmtMVC/Dockerfile
