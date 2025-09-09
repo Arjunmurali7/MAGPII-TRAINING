@@ -1,0 +1,76 @@
+name: dockercompose11787530118944047058
+services:
+  db:
+    environment:
+      MYSQL_DATABASE: EmployeeDb
+      MYSQL_ROOT_PASSWORD: arjun
+    image: mysql:8
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 3306
+        published: "3308"
+        protocol: tcp
+    volumes:
+      - type: volume
+        source: dbdata
+        target: /var/lib/mysql
+        volume: {}
+  task7:
+    build:
+      context: C:\Users\WIIS\source\repos\task7\task7
+      dockerfile: Dockerfile
+    depends_on:
+      db:
+        condition: service_started
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+      ConnectionStrings__DefaultConnection: server=db;port=3306;database=EmployeeDb;user=root;password=yourpassword
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "8080"
+        protocol: tcp
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\WIIS\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\WIIS\AppData\Roaming/Microsoft/UserSecrets
+        target: /root/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\WIIS\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\WIIS\AppData\Roaming/ASP.NET/Https
+        target: /root/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+networks:
+  default:
+    name: dockercompose11787530118944047058_default
+volumes:
+  dbdata:
+    name: dockercompose11787530118944047058_dbdata
