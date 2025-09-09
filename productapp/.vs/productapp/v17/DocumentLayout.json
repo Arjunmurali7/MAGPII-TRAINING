@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WIIS\\source\\repos\\productapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F793D0B2-F676-425D-9A7B-C982730FC4CA}|productapp\\productapp.csproj|c:\\users\\wiis\\source\\repos\\productapp\\productapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F793D0B2-F676-425D-9A7B-C982730FC4CA}|productapp\\productapp.csproj|solutionrelative:productapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F793D0B2-F676-425D-9A7B-C982730FC4CA}|productapp\\productapp.csproj|c:\\users\\wiis\\source\\repos\\productapp\\productapp\\controllers\\product controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F793D0B2-F676-425D-9A7B-C982730FC4CA}|productapp\\productapp.csproj|solutionrelative:productapp\\controllers\\product controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F793D0B2-F676-425D-9A7B-C982730FC4CA}|productapp\\productapp.csproj|c:\\users\\wiis\\source\\repos\\productapp\\productapp\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F793D0B2-F676-425D-9A7B-C982730FC4CA}|productapp\\productapp.csproj|solutionrelative:productapp\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F793D0B2-F676-425D-9A7B-C982730FC4CA}|productapp\\productapp.csproj|c:\\users\\wiis\\source\\repos\\productapp\\productapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F793D0B2-F676-425D-9A7B-C982730FC4CA}|productapp\\productapp.csproj|solutionrelative:productapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\productapp\\productapp\\Program.cs",
+              "RelativeDocumentMoniker": "productapp\\Program.cs",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\productapp\\productapp\\Program.cs",
+              "RelativeToolTip": "productapp\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T04:53:31.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\productapp\\productapp\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "productapp\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\productapp\\productapp\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "productapp\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T04:42:25.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "product controller.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\productapp\\productapp\\Controllers\\product controller.cs",
+              "RelativeDocumentMoniker": "productapp\\Controllers\\product controller.cs",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\productapp\\productapp\\Controllers\\product controller.cs",
+              "RelativeToolTip": "productapp\\Controllers\\product controller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T04:38:30.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "product.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\productapp\\productapp\\Models\\product.cs",
+              "RelativeDocumentMoniker": "productapp\\Models\\product.cs",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\productapp\\productapp\\Models\\product.cs",
+              "RelativeToolTip": "productapp\\Models\\product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T04:36:40.464Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
