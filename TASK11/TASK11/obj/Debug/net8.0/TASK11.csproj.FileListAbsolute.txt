@@ -1,0 +1,14 @@
+C:\Users\WIIS\source\repos\TASK11\TASK11\bin\Debug\net8.0\TASK11.exe
+C:\Users\WIIS\source\repos\TASK11\TASK11\bin\Debug\net8.0\TASK11.deps.json
+C:\Users\WIIS\source\repos\TASK11\TASK11\bin\Debug\net8.0\TASK11.runtimeconfig.json
+C:\Users\WIIS\source\repos\TASK11\TASK11\bin\Debug\net8.0\TASK11.dll
+C:\Users\WIIS\source\repos\TASK11\TASK11\bin\Debug\net8.0\TASK11.pdb
+C:\Users\WIIS\source\repos\TASK11\TASK11\obj\Debug\net8.0\TASK11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIIS\source\repos\TASK11\TASK11\obj\Debug\net8.0\TASK11.AssemblyInfoInputs.cache
+C:\Users\WIIS\source\repos\TASK11\TASK11\obj\Debug\net8.0\TASK11.AssemblyInfo.cs
+C:\Users\WIIS\source\repos\TASK11\TASK11\obj\Debug\net8.0\TASK11.csproj.CoreCompileInputs.cache
+C:\Users\WIIS\source\repos\TASK11\TASK11\obj\Debug\net8.0\TASK11.dll
+C:\Users\WIIS\source\repos\TASK11\TASK11\obj\Debug\net8.0\refint\TASK11.dll
+C:\Users\WIIS\source\repos\TASK11\TASK11\obj\Debug\net8.0\TASK11.pdb
+C:\Users\WIIS\source\repos\TASK11\TASK11\obj\Debug\net8.0\TASK11.genruntimeconfig.cache
+C:\Users\WIIS\source\repos\TASK11\TASK11\obj\Debug\net8.0\ref\TASK11.dll
