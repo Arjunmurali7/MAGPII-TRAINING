@@ -1,0 +1,29 @@
+﻿@model IEnumerable<StudentApi.Models.Student>
+
+@{
+    ViewData["Title"] = "Student List";
+}
+
+<h2>Student List</h2>
+
+<table border="1" cellpadding="5" cellspacing="0" style="border-collapse:collapse;">
+    <thead>
+        <tr style="background-color:lightgray;">
+            <th>ID</th>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Course</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model)
+        {
+            <tr>
+                <td>@student.Id</td>
+                <td>@student.Name</td>
+                <td>@student.Age</td>
+                <td>@student.Course</td>
+            </tr>
+        }
+    </tbody>
+</table>

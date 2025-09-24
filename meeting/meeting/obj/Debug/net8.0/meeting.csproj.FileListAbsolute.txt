@@ -1,0 +1,14 @@
+C:\Users\WIIS\source\repos\meeting\meeting\bin\Debug\net8.0\meeting.exe
+C:\Users\WIIS\source\repos\meeting\meeting\bin\Debug\net8.0\meeting.deps.json
+C:\Users\WIIS\source\repos\meeting\meeting\bin\Debug\net8.0\meeting.runtimeconfig.json
+C:\Users\WIIS\source\repos\meeting\meeting\bin\Debug\net8.0\meeting.dll
+C:\Users\WIIS\source\repos\meeting\meeting\bin\Debug\net8.0\meeting.pdb
+C:\Users\WIIS\source\repos\meeting\meeting\obj\Debug\net8.0\meeting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIIS\source\repos\meeting\meeting\obj\Debug\net8.0\meeting.AssemblyInfoInputs.cache
+C:\Users\WIIS\source\repos\meeting\meeting\obj\Debug\net8.0\meeting.AssemblyInfo.cs
+C:\Users\WIIS\source\repos\meeting\meeting\obj\Debug\net8.0\meeting.csproj.CoreCompileInputs.cache
+C:\Users\WIIS\source\repos\meeting\meeting\obj\Debug\net8.0\meeting.dll
+C:\Users\WIIS\source\repos\meeting\meeting\obj\Debug\net8.0\refint\meeting.dll
+C:\Users\WIIS\source\repos\meeting\meeting\obj\Debug\net8.0\meeting.pdb
+C:\Users\WIIS\source\repos\meeting\meeting\obj\Debug\net8.0\meeting.genruntimeconfig.cache
+C:\Users\WIIS\source\repos\meeting\meeting\obj\Debug\net8.0\ref\meeting.dll
