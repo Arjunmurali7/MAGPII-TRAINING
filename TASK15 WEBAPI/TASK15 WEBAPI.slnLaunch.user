@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "TASK15 WEBAPI\\TASK15 WEBAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "TASK15 MVC1\\TASK15 MVC1.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

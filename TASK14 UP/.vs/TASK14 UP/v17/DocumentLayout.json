@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WIIS\\source\\repos\\TASK14 UP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE7D64C-737F-4D21-A367-E22276922492}|TASK14 UP\\TASK14 UP.csproj|c:\\users\\wiis\\source\\repos\\task14 up\\task14 up\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4FE7D64C-737F-4D21-A367-E22276922492}|TASK14 UP\\TASK14 UP.csproj|solutionrelative:task14 up\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE7D64C-737F-4D21-A367-E22276922492}|TASK14 UP\\TASK14 UP.csproj|c:\\users\\wiis\\source\\repos\\task14 up\\task14 up\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE7D64C-737F-4D21-A367-E22276922492}|TASK14 UP\\TASK14 UP.csproj|solutionrelative:task14 up\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE7D64C-737F-4D21-A367-E22276922492}|TASK14 UP\\TASK14 UP.csproj|c:\\users\\wiis\\source\\repos\\task14 up\\task14 up\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE7D64C-737F-4D21-A367-E22276922492}|TASK14 UP\\TASK14 UP.csproj|solutionrelative:task14 up\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE7D64C-737F-4D21-A367-E22276922492}|TASK14 UP\\TASK14 UP.csproj|c:\\users\\wiis\\source\\repos\\task14 up\\task14 up\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE7D64C-737F-4D21-A367-E22276922492}|TASK14 UP\\TASK14 UP.csproj|solutionrelative:task14 up\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\TASK14 UP\\TASK14 UP\\Program.cs",
+              "RelativeDocumentMoniker": "TASK14 UP\\Program.cs",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\TASK14 UP\\TASK14 UP\\Program.cs",
+              "RelativeToolTip": "TASK14 UP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T04:52:24.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\TASK14 UP\\TASK14 UP\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "TASK14 UP\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\TASK14 UP\\TASK14 UP\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "TASK14 UP\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-22T04:51:56.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\TASK14 UP\\TASK14 UP\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "TASK14 UP\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\TASK14 UP\\TASK14 UP\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "TASK14 UP\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T04:50:59.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\TASK14 UP\\TASK14 UP\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "TASK14 UP\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\TASK14 UP\\TASK14 UP\\Models\\Employee.cs",
+              "RelativeToolTip": "TASK14 UP\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T04:50:01.944Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

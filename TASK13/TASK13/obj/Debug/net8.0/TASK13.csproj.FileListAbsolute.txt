@@ -1,0 +1,14 @@
+C:\Users\WIIS\source\repos\TASK13\TASK13\bin\Debug\net8.0\TASK13.exe
+C:\Users\WIIS\source\repos\TASK13\TASK13\bin\Debug\net8.0\TASK13.deps.json
+C:\Users\WIIS\source\repos\TASK13\TASK13\bin\Debug\net8.0\TASK13.runtimeconfig.json
+C:\Users\WIIS\source\repos\TASK13\TASK13\bin\Debug\net8.0\TASK13.dll
+C:\Users\WIIS\source\repos\TASK13\TASK13\bin\Debug\net8.0\TASK13.pdb
+C:\Users\WIIS\source\repos\TASK13\TASK13\obj\Debug\net8.0\TASK13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIIS\source\repos\TASK13\TASK13\obj\Debug\net8.0\TASK13.AssemblyInfoInputs.cache
+C:\Users\WIIS\source\repos\TASK13\TASK13\obj\Debug\net8.0\TASK13.AssemblyInfo.cs
+C:\Users\WIIS\source\repos\TASK13\TASK13\obj\Debug\net8.0\TASK13.csproj.CoreCompileInputs.cache
+C:\Users\WIIS\source\repos\TASK13\TASK13\obj\Debug\net8.0\TASK13.dll
+C:\Users\WIIS\source\repos\TASK13\TASK13\obj\Debug\net8.0\refint\TASK13.dll
+C:\Users\WIIS\source\repos\TASK13\TASK13\obj\Debug\net8.0\TASK13.pdb
+C:\Users\WIIS\source\repos\TASK13\TASK13\obj\Debug\net8.0\TASK13.genruntimeconfig.cache
+C:\Users\WIIS\source\repos\TASK13\TASK13\obj\Debug\net8.0\ref\TASK13.dll

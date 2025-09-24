@@ -1,0 +1,35 @@
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\bin\Debug\net8.0\TASK15 WEBAPI.staticwebassets.endpoints.json
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\bin\Debug\net8.0\TASK15 WEBAPI.exe
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\bin\Debug\net8.0\TASK15 WEBAPI.deps.json
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\bin\Debug\net8.0\TASK15 WEBAPI.runtimeconfig.json
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\bin\Debug\net8.0\TASK15 WEBAPI.dll
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\bin\Debug\net8.0\TASK15 WEBAPI.pdb
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\obj\Debug\net8.0\TASK15 WEBAPI.csproj.AssemblyReference.cache
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\obj\Debug\net8.0\TASK15 WEBAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\obj\Debug\net8.0\TASK15 WEBAPI.AssemblyInfoInputs.cache
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\obj\Debug\net8.0\TASK15 WEBAPI.AssemblyInfo.cs
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\obj\Debug\net8.0\TASK15 WEBAPI.csproj.CoreCompileInputs.cache
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\obj\Debug\net8.0\TASK15 WEBAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\obj\Debug\net8.0\TASK15 WEBAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\obj\Debug\net8.0\scopedcss\bundle\TASK15 WEBAPI.styles.css
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\obj\Debug\net8.0\TASK15 W.13C124BD.Up2Date
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\obj\Debug\net8.0\TASK15 WEBAPI.dll
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\obj\Debug\net8.0\refint\TASK15 WEBAPI.dll
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\obj\Debug\net8.0\TASK15 WEBAPI.pdb
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\obj\Debug\net8.0\TASK15 WEBAPI.genruntimeconfig.cache
+C:\Users\WIIS\source\repos\TASK15 WEBAPI\TASK15 WEBAPI\obj\Debug\net8.0\ref\TASK15 WEBAPI.dll

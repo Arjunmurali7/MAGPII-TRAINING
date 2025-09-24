@@ -1,0 +1,33 @@
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\bin\Debug\net8.0\appsettings.json
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\bin\Debug\net8.0\TASK14 UP.staticwebassets.runtime.json
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\bin\Debug\net8.0\TASK14 UP.staticwebassets.endpoints.json
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\bin\Debug\net8.0\TASK14 UP.exe
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\bin\Debug\net8.0\TASK14 UP.deps.json
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\bin\Debug\net8.0\TASK14 UP.runtimeconfig.json
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\bin\Debug\net8.0\TASK14 UP.dll
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\bin\Debug\net8.0\TASK14 UP.pdb
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\obj\Debug\net8.0\TASK14 UP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\obj\Debug\net8.0\TASK14 UP.AssemblyInfoInputs.cache
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\obj\Debug\net8.0\TASK14 UP.AssemblyInfo.cs
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\obj\Debug\net8.0\TASK14 UP.csproj.CoreCompileInputs.cache
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\obj\Debug\net8.0\TASK14 UP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\obj\Debug\net8.0\TASK14 UP.RazorAssemblyInfo.cache
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\obj\Debug\net8.0\TASK14 UP.RazorAssemblyInfo.cs
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\obj\Debug\net8.0\scopedcss\bundle\TASK14 UP.styles.css
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\obj\Debug\net8.0\scopedcss\projectbundle\TASK14 UP.bundle.scp.css
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\obj\Debug\net8.0\TASK14 UP.dll
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\obj\Debug\net8.0\refint\TASK14 UP.dll
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\obj\Debug\net8.0\TASK14 UP.pdb
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\obj\Debug\net8.0\TASK14 UP.genruntimeconfig.cache
+C:\Users\WIIS\source\repos\TASK14 UP\TASK14 UP\obj\Debug\net8.0\ref\TASK14 UP.dll

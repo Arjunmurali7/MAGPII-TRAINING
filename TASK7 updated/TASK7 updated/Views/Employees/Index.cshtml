@@ -1,0 +1,25 @@
+﻿@model IEnumerable<EmployeeManagement.Models.Employee>
+
+<h2>Employees</h2>
+<a href="/Employees/Create" class="btn btn-primary">Add Employee</a>
+
+<table class="table table-bordered mt-3">
+    <tr>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Department</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var emp in Model)
+    {
+        <tr>
+            <td>@emp.Name</td>
+            <td>@emp.Email</td>
+            <td>@emp.Department</td>
+            <td>
+                <a href="/Employees/Edit/@emp.Id" class="btn btn-sm btn-warning">Edit</a>
+                <a href="/Employees/Delete/@emp.Id" class="btn btn-sm btn-danger">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
